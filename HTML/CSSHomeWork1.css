@@ -1,0 +1,39 @@
+h2 {
+    color: olive;
+}
+
+
+table {
+    border-collapse: collapse;
+}
+
+th,td {
+    border: 2px solid black;
+}
+
+.background{
+    background-image: url("Backround picture.jpeg");
+    top: 0;
+    left: 0;
+   background-size: cover;
+}
+
+#Intro{
+    color: darkturquoise;
+    font-size: 30px;
+}
+
+.Ingredients h5{
+    color: olive;
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;
+}
+
+.Ingredients li{
+    color: darkturquoise;
+}
+
+.Ingredients{
+    position: center;
+}
